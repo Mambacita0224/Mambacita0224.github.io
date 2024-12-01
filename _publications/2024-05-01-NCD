@@ -1,0 +1,13 @@
+---
+title: "Designing Scaffolding Strategies for Conversational Agents in Dialog Task of Neurocognitive Disorders Screening"
+collection: publications
+category: conferences
+permalink: /publications/2024-05-01-NCD
+excerpt: 'This paper discusses the design and evaluation of a scaffolding framework for conversational agents to enhance dialog-based neurocognitive disorder screening, focusing on task understanding and engagement among participants.'
+date: 2024-05-01
+venue: 'CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems'
+paperurl: 'https://dl.acm.org/doi/10.1145/3613904.3642960'
+citation: 'J Hu, J Li, Y Zeng, D Yang, D Liang, H Meng, and X Ma, Designing Scaffolding Strategies for Conversational Agents in Dialog Tasks of Neurocognitive Disorder Screening, Proceedings of the CHI Conference on Human Factors in Computing Systems(2024), 1-21.'
+---
+
+Regular screening is critical for individuals at risk of neurocognitive disorders (NCDs) to receive early intervention. Conversational agents (CAs) have been adopted to administer dialog-based NCD screening tests for their scalability compared to human-administered tests. However, unique communication skills are required for CAs during NCD screening, e.g., clinicians often apply scaffolding to ensure subjects’ understanding of and engagement in screening tests. Based on scaffolding theories and analysis of clinicians’ practices from human-administered test recordings, we designed a scaffolding framework for the CA. In an exploratory wizard-of-Oz study, the CA empowered by ChatGPT administered tasks in the Grocery Shopping Dialog Task with 15 participants (10 diagnosed with NCDs). Clinical experts verified the quality of the CA’s scaffolding and we explored its effects on task understanding of the participants. Moreover, we proposed implications for the future design of CAs that enable scaffolding for scalable NCD screening.
